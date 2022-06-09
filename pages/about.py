@@ -64,7 +64,7 @@ def app():
                     <h4>Anmol's LinkedIn:</h4>
                     <div style="background: rgb(248, 249, 251);border-radius: 0.25rem;, height: 50px , stroke='currentColor';">
                         <p style="padding:10px">
-                            <a href = https://www.linkedin.com/in/anmolp" 
+                            <a href = https://www.linkedin.com/in/anmolp
                                         target="_blank"
                                         style="text-decoration:None; 
                                             color:black;
